@@ -97,7 +97,7 @@ Spotify Dataset → Top 50 Global tracks
 
 2. Clone this repository:
 
-git clone https://github.com/your-username/spotify-insights-dashboard.git
+git clone (https://github.com/SiddharthJaiswa110/Spotify-Artist-Insights-Dashboard/tree/main?tab=readme-ov-file)
 
 
 3. Open the spotify_dashboard.pbix file in Power BI Desktop.
