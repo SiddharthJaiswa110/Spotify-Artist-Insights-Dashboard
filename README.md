@@ -59,6 +59,7 @@ And Many More.....
 📊 Dashboard Preview
 
 
+<img width="1474" height="895" alt="Screenshot 2025-10-02 210046" src="https://github.com/user-attachments/assets/fab4a504-8d48-4ad3-bd4b-23f4727ca298" />
 
 
 
